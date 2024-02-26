@@ -13,4 +13,4 @@ public class Operation1 {
 		System.out.println("i3 : "+i3);
 		System.out.println("max : "+max);	
 	}
-}	
+}
